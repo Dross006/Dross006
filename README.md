@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Dross006
+- 👋 Hi, I’m @Douglas Rossi
 - 👀 I’m interested in learning programming.
 - 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
